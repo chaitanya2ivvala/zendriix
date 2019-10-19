@@ -2,6 +2,9 @@ class HelloWorld1
     def initialize
       output_lines
     end
+    def initialize1
+        output_lines
+      end
   
     def output_lines
       puts 'Line1'
