@@ -11,5 +11,10 @@ class HelloWorld2
       puts 'Line2'
       puts 'Line3'
     end
+    def input_lines
+        puts 'Line1'
+        puts 'Line2'
+        puts 'Line3'
+      end
   end
   
