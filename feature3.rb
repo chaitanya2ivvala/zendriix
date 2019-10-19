@@ -6,7 +6,7 @@ class HelloWorld1
         output_lines
       end
   
-    def output_lines
+    def output
       puts 'Line1'
       puts 'Line2'
       puts 'Line3'
