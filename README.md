@@ -14,5 +14,5 @@ For the workshop, I would like to follow the git-flow workflow.
 3. New functionality feature2 added. 
 ### v1.1.0-beta 
 1. This version is the beta release of the v1.0.0 zendriix API. 
-2. New functionality feature1 added.
-3. New functionality feature2 added. 
+2. New functionality feature3 added.
+3. New functionality feature4 added. 
